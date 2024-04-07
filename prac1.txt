@@ -1,5 +1,5 @@
 aaaaaaaaa
-bbbbbbb
+bbbbbbbbbbb
 git add 파일명-->staging area
 git commit -m'메모할것'-->repository
 git status -->git의 상태
