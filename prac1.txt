@@ -1,0 +1,16 @@
+aaaaaaaaa
+bbbbbbb
+git add 파일명-->staging area
+git commit -m'메모할것'-->repository
+git status -->git의 상태
+git log -->git의 commit 내역을 확인
+git config --global user.email "이메일"
+git config --global user.name "이름"
+dddd
+git diff -->최근 commit과 현재 파일의 차이를 보여준다.
+git difftool
+
+
+git branch 이름 -->현재 파일의 복사본을 생
+git switch 이름
+git swithc main
