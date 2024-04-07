@@ -1,5 +1,5 @@
-aaaaaaaaa
-bbbbbbbbbbb
+
+
 git add 파일명-->staging area
 git commit -m'메모할것'-->repository
 git status -->git의 상태
@@ -13,4 +13,7 @@ git difftool
 
 git branch 이름 -->현재 파일의 복사본을 생
 git switch 이름
-git swithc main
+git switch main
+git merge 이름 -->branch 파일과 원래 파일을 합친다.
+git rebase&merge
+git fast-forward merge
