@@ -1,4 +1,11 @@
-
+1. git config --global user.name "유저이름"
+2. git config --global user.email "이메일"
+3. git init
+4. git add .
+5. git status
+6. git commit -m '주석'
+7. git remote add origin {git 주소}
+8. git psuh -u origin master
 
 git add 파일명-->staging area
 git commit -m'메모할것'-->repository
@@ -15,5 +22,7 @@ git branch 이름 -->현재 파일의 복사본을 생
 git switch 이름
 git switch main
 git merge 이름 -->branch 파일과 원래 파일을 합친다.
-git rebase&merge
+git rebase&merge --> conflict 엔딩이 많이 발생한다.
 git fast-forward merge
+
+git merge--squash 새브랜치 -->쓸데없는 branch를 없앤다.
